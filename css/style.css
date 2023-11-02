@@ -1,0 +1,43 @@
+* {
+    font-family: Garamond, Verdana, serif;
+}
+
+.title {
+    text-align: center;  
+    font-size: 2rem; 
+    color: #8A2BE2;
+}
+
+
+img {
+    border: 1rem dotted #DC143C;
+
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #8A2BE2;
+}
+
+p {
+    text-align: center;
+}
+
+.main_ul {
+    text-align: center;
+}
+
+ul li {
+    list-style: hiragana-iroha;
+}
+
+ol li {
+    list-style: lower-roman;
+}
+ul li a {
+    text-decoration: none;
+    font-size: 1.5em;
+    color: #D2691E;
+
+}
